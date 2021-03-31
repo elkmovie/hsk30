@@ -1,4 +1,4 @@
-# HSK 4.0 word list
+# HSK 3.0 word list
 # OCR'ed but not extensively proofread (yet)
 # Copyright (c) 2021 Pleco Inc.
 # See https://github.com/elkmovie/hsk40/ for details + license
