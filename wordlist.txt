@@ -1,7 +1,7 @@
 # HSK 3.0 word list
 # OCR'ed but not extensively proofread (yet)
 # Copyright (c) 2021 Pleco Inc.
-# See https://github.com/elkmovie/hsk30/ for details + license
+# Distributed under MIT license, see https://github.com/elkmovie/hsk30/ for details
 
 一级词汇表
 1 爱
