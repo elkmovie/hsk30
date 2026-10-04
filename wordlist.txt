@@ -2,6 +2,7 @@
 # OCR'ed but not extensively proofread (yet)
 # Copyright (c) 2021 Pleco Inc.
 # Distributed under MIT license, see https://github.com/elkmovie/hsk30/ for details
+# standard: gf0025-2021
 
 一级词汇表
 1 爱
